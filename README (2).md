@@ -8,7 +8,7 @@ Ensuring quality, reliability, and performance across web and mobile application
 
 [![Email](https://img.shields.io/badge/Email-shitalpandirkar80%40gmail.com-2E5C8A?style=flat-square&logo=gmail&logoColor=white)](mailto:shitalpandirkar80@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shital--pandirkar-2E5C8A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shital-pandirkar)
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-2E5C8A?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Thane%2C%20India-2E5C8A?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
